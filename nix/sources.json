@@ -1,0 +1,225 @@
+{
+  "apps": {
+    "designcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-jX9B1mug0XYY5FDoslgO3pIs39pPqS+dQjmlfaX1Ybw=",
+          "url": "https://github.com/storytold/designcraft/releases/download/v0.17.0/designcraft-0.17.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-RFGQQBMRf3/yBgqXELDOOX0QFkUeS5hMyVXcBUfrViE=",
+          "url": "https://github.com/storytold/designcraft/releases/download/v0.17.0/designcraft-0.17.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-Ur5EhZEE0VTQsXKgeWqqXMKF70cl4/jkPcFlsa28APE=",
+      "craftFonts": {
+        "hash": "sha256-jZ3VBAJDofB6RvsS7GGV5lLT4xiShIjpz5XHBCD2oUc=",
+        "rev": "b076417b5880bd4154bd22f00695b1d28c6bea83"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-7yyNVvZFO4F1SmDhpFytxM3BoPNA4uOLY0ldP5Ic2mE=",
+        "rev": "e79d682e02dc66f14370958b193bfa46072b2f41"
+      },
+      "tag": "v0.17.0",
+      "version": "0.17.0"
+    },
+    "effectcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-3Vt1mK/9uxIZUFfmwsfcm/EiFK9a6ZhNsh/rfY2qMrY=",
+          "url": "https://github.com/storytold/effectcraft/releases/download/v0.21.0/effectcraft-0.21.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-+xnkHjo90oeLA9NQT3WrYWxSf6dUKEkbYBbUZ4n9nyA=",
+          "url": "https://github.com/storytold/effectcraft/releases/download/v0.21.0/effectcraft-0.21.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-GA8Pun05kAy2vu/pjyJ/wfFZqAv6qFlicXY7/5f16VQ=",
+      "craftFonts": {
+        "hash": "sha256-OWegmkrjwP6YP8NoV4i8V+GH2lKMS1XqDe24zFOc4yw=",
+        "rev": "bfcbf714e45a3ea8e98f88ab2b7971372a576414"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-bKKAYM4tKV3EateUKOg7PpbxfXB0xMKsXmvPQvDuK/Q=",
+        "rev": "7870b5916ae0749d497d880989683bf2946d6c8b"
+      },
+      "tag": "v0.21.0",
+      "version": "0.21.0"
+    },
+    "filmcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-W1vR3j6CQB9cUc9SQCoMhyTB7E6ScMOCyFLbxnZNiHE=",
+          "url": "https://github.com/storytold/filmcraft/releases/download/v0.17.0/filmcraft-0.17.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-dm+cVk984SjkhPsrg4xiX3OBRpdFz9PGaRLdyAE2vuM=",
+          "url": "https://github.com/storytold/filmcraft/releases/download/v0.17.0/filmcraft-0.17.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-+2eP9yDJ8fOdO/yvGMClZ6pn5rmc1rM57WofacvDR0s=",
+      "craftFonts": {
+        "hash": "sha256-jZ3VBAJDofB6RvsS7GGV5lLT4xiShIjpz5XHBCD2oUc=",
+        "rev": "b076417b5880bd4154bd22f00695b1d28c6bea83"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-8qy6HZu96wBUhpyN3w87hxnPgOZ06MmzHkzT1i5ru0k=",
+        "rev": "eb59ec09daaea519c9c8fffa404a594ae50d00e0"
+      },
+      "tag": "v0.17.0",
+      "version": "0.17.0"
+    },
+    "lightcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-rVE/JbQ7pVtsZ6udrz87uQ+OrKQ/MNTDdFvCmSRiNtU=",
+          "url": "https://github.com/storytold/lightcraft/releases/download/v0.18.0/lightcraft-0.18.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-9xYG5Eb/MsrpzdBQxR3WAgKpfBFmWPAmrOaTSh0Ci3Y=",
+          "url": "https://github.com/storytold/lightcraft/releases/download/v0.18.0/lightcraft-0.18.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-BhBn2Bc2/g2jzmMiiaECReRw/KTuRIzoeLVraQVR3v0=",
+      "craftFonts": {
+        "hash": "sha256-jZ3VBAJDofB6RvsS7GGV5lLT4xiShIjpz5XHBCD2oUc=",
+        "rev": "b076417b5880bd4154bd22f00695b1d28c6bea83"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-2pmVy85ms/KrjqwlZRpLxtBeQzbjrrrHJUJ/jW3WIgA=",
+        "rev": "32d569ad5d19a6b55cf8d5c077127faa0f44a83b"
+      },
+      "tag": "v0.18.0",
+      "version": "0.18.0"
+    },
+    "pdfcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-Nd6gQqhKCBjeLnYRzyS5N9lrZGBMDNdojA4YQas0szg=",
+          "url": "https://github.com/storytold/pdfcraft/releases/download/v0.18.0/pdfcraft-0.18.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-P9R34y8gaAzwwtmGQl94OhcXiIab6QvlVuWHi1sjGL8=",
+          "url": "https://github.com/storytold/pdfcraft/releases/download/v0.18.0/pdfcraft-0.18.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-fE6KX6KMyc22kdiJiqJLnCnVXTxHNWlhtEf/0vqCf88=",
+      "craftFonts": {
+        "hash": "sha256-jZ3VBAJDofB6RvsS7GGV5lLT4xiShIjpz5XHBCD2oUc=",
+        "rev": "b076417b5880bd4154bd22f00695b1d28c6bea83"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [
+        {
+          "hash": "sha256-KKlSnH0LtNxR9L9cEWo9Fu8kegUvdZFGZ2jd9WP9HPU=",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt"
+        },
+        {
+          "hash": "sha256-qReyPb2VJLRl336SJkGz/ymBYj303tWgI0AE7y/ufP4=",
+          "url": "https://ocrs-models.s3-accelerate.amazonaws.com/text-detection.onnx"
+        },
+        {
+          "hash": "sha256-hsFFwu25bIyu1bHruPRNcGQIkiIRRRwwnGJRV91gYcU=",
+          "url": "https://ocrs-models.s3-accelerate.amazonaws.com/text-recognition.onnx"
+        }
+      ],
+      "src": {
+        "hash": "sha256-agLr61nG0/s786ZYj2AS2uw8hhH7a20TcCEjedHyygk=",
+        "rev": "3936f93a1479366a951206fc6d3094680fe2d3dc"
+      },
+      "tag": "v0.18.0",
+      "version": "0.18.0"
+    },
+    "photocraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-AvZfrX/3WFGRdR33Og0KE2Tgw/H7z15UWJk3ks30ENU=",
+          "url": "https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-18YF/QXqIzTidx4TWP5NkA27/xTwLXZgcMFB4uOtS78=",
+          "url": "https://github.com/storytold/photocraft/releases/download/v0.20.1/photocraft-0.20.1-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-FiQ4zYcjGK5yhgVjb7zH2gBbByPrcz/NuwtwjL1nPD0=",
+      "craftFonts": {
+        "hash": "sha256-jZ3VBAJDofB6RvsS7GGV5lLT4xiShIjpz5XHBCD2oUc=",
+        "rev": "b076417b5880bd4154bd22f00695b1d28c6bea83"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-wThSwug4qWWz7RkhZ8s1ZF9pKFZVKPhnhUw0w5Xurwk=",
+        "rev": "327c4cc82e737a3e0af7c147a477126d77525495"
+      },
+      "tag": "v0.20.1",
+      "version": "0.20.1"
+    },
+    "soundcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-Zr9H0+SiVel3ZkbyjJT94nxmJvxZfNIr5isjJ5TSz8M=",
+          "url": "https://github.com/storytold/soundcraft/releases/download/v0.17.0/soundcraft-0.17.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-Az1/YA+lkPy39XugeQEPpqs7r2cwf9de/z0frFGaO60=",
+          "url": "https://github.com/storytold/soundcraft/releases/download/v0.17.0/soundcraft-0.17.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-qIeIfDTC7m88TZlMsGs83poDpjZw6y72SVjX+SwnE3E=",
+      "craftFonts": {
+        "hash": "sha256-OWegmkrjwP6YP8NoV4i8V+GH2lKMS1XqDe24zFOc4yw=",
+        "rev": "bfcbf714e45a3ea8e98f88ab2b7971372a576414"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-3EvdefFFh+nEx6ie8sNqOeRH+Jky49tj01P4Ge7W3Qo=",
+        "rev": "b35dd0f9eb0c08a198c1306021bd138f3a22d87c"
+      },
+      "tag": "v0.17.0",
+      "version": "0.17.0"
+    },
+    "vectorcraft": {
+      "appimage": {
+        "aarch64-linux": {
+          "hash": "sha256-gMSN7MTqtkF2YZnQodyHt5SMN3bk0xrX9ce6kziw2pc=",
+          "url": "https://github.com/storytold/vectorcraft/releases/download/v0.21.0/vectorcraft-0.21.0-linux-aarch64.AppImage"
+        },
+        "x86_64-linux": {
+          "hash": "sha256-lERKCXD0leIlFDXmD+Pb6td/exNr8zRUdCapIM8umFg=",
+          "url": "https://github.com/storytold/vectorcraft/releases/download/v0.21.0/vectorcraft-0.21.0-linux-x86_64.AppImage"
+        }
+      },
+      "cargoHash": "sha256-YXuVyRwq8dIT/KlBv/8Bkv1p+zJtPZC01b4pYUIpD8s=",
+      "craftFonts": {
+        "hash": "sha256-jZ3VBAJDofB6RvsS7GGV5lLT4xiShIjpz5XHBCD2oUc=",
+        "rev": "b076417b5880bd4154bd22f00695b1d28c6bea83"
+      },
+      "craftI18n": null,
+      "date": "2026-11-03",
+      "fetched": [],
+      "src": {
+        "hash": "sha256-jHdKEfQK+O4WnEkyRnXuQ22248H4YVbrpWfnYz1xSgs=",
+        "rev": "11862f61198c8f62c0b22b6c9a331cc5950ac98d"
+      },
+      "tag": "v0.21.0",
+      "version": "0.21.0"
+    }
+  }
+}
